@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226351004057",
+    "project_id": "skillboxlesson-44d75",
+    "storage_bucket": "skillboxlesson-44d75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226351004057:android:d32aaaef7245f91a1e3b08",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226351004057-k4f6bi72lpukh4vojac2eg3ep3jm99sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGsFteVFO0VYmXHzA7ci9t4fBKftS4q_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226351004057-k4f6bi72lpukh4vojac2eg3ep3jm99sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
